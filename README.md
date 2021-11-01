@@ -43,3 +43,4 @@ We are using Kinetics Dataset and Classifying the type of activities amongst 11 
 
 The project was deployed using an android studio. where the designed model was uploaded in other to predict the human actions either by uploading an image/video or real time video detection.
 ![image](https://user-images.githubusercontent.com/72225471/139593109-4d459a74-b54e-4c0e-a03e-035025f024fb.png)
+
