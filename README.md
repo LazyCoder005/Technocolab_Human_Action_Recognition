@@ -17,6 +17,7 @@ We will discover the problem of human activity recognition and the deep learning
 
   - Convolutional neural networks and long short-term memory networks, and perhaps both together, are best suited to learning features from raw sensor data and predicting the       associated movement
 
+### Download APK From here : https://drive.google.com/file/d/19DA17kL2Zs11xNyYkrR5jTcRLIlkrh0z/view?usp=sharing
 
 ## About Dataset: 
 
